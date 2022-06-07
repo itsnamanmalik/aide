@@ -1122,4 +1122,10 @@ a {
   font-weight: normal; }
 
 .custom-table td {
-  color: #000; }
+  color: #000; 
+}
+
+.img-responsive {
+  max-width: 100%;
+  height: auto;
+}
