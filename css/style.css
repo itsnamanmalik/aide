@@ -1164,3 +1164,13 @@ a {
   transition: opacity .15s ease;
 }
 
+.bg-blue{
+  background-color: rgb(48, 155, 243) !important;
+}
+
+.bg-blue1{
+  background-color: rgb(53, 117, 255) !important;
+}
+.bg-blue2{
+  background-color: rgb(77, 48, 237) !important;
+}
