@@ -131,7 +131,7 @@ a {
 
 /* Navbar */
 .site-logo a {
-  font-family:"Lucida Handwriting";
+  font-family:"Lucida Handwriting", "Brush Script MT", cursive;;
   font-size: 32px;
   color: rgb(255, 0, 0) !important;
   font-weight: 900; 
@@ -385,7 +385,7 @@ a {
       margin-top: 10px;
       margin-left: 20px; }
       .site-mobile-menu .site-mobile-menu-header .site-mobile-menu-logo a {
-        font-family:"Lucida Handwriting";
+        font-family:"Lucida Handwriting", "Brush Script MT", cursive;
         font-size: 28px;
         color: rgb(255, 0, 0) !important;
         font-weight: 900;   
