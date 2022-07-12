@@ -1,17 +1,3 @@
-@font-face {
-  font-family: 'Lucida Handwriting';
-  font-style: normal;
-  font-weight: 900;
-  src: url(../fonts/lucida/LucidaHandwritingStdBlack.TTF) format('ttf');
-}
-
-@font-face {
-  font-family: 'Lucida Handwriting';
-  font-style: normal;
-  font-weight: 700;
-  src: url(../fonts/lucida/LucidaHandwritingStdLight.TTF) format('ttf');
-}
-
 /* Base */
 body {
   line-height: 1.7;
