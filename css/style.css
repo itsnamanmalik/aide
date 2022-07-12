@@ -1,3 +1,17 @@
+@font-face {
+  font-family: 'Lucida Handwriting';
+  font-style: normal;
+  font-weight: 900;
+  src: url(../fonts/lucida/LucidaHandwritingStdBlack.TTF) format('ttf');
+}
+
+@font-face {
+  font-family: 'Lucida Handwriting';
+  font-style: normal;
+  font-weight: 700;
+  src: url(../fonts/lucida/LucidaHandwritingStdLight.TTF) format('ttf');
+}
+
 /* Base */
 body {
   line-height: 1.7;
@@ -1172,3 +1186,4 @@ a {
 .bg-blue2{
   background-color: rgb(77, 48, 237) !important;
 }
+
